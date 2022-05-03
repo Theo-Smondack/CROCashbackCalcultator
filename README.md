@@ -56,7 +56,7 @@ To run your CROCashbackCalcultator you simply need to run the following command 
 
 ## 🤷🏼‍♂️ How does it work ?
 
-<img src="ReadMeAssets/img2.png" alt="Account Menu" width="500"/>
+<img src="ReadMeAssets/img2.png" alt="CROCashbackCalcultator" width="500"/>
 
 This will window must appear on your screen you just need to click on ``Choose a CSV file CRO transactions`` and open your CSV file you get from Crypto.com app and enjoy the result.
 
@@ -64,10 +64,10 @@ This will window must appear on your screen you just need to click on ``Choose a
 
 Open Crypto.com app on you mobile (Android/iOS) -> Go to `Acount` menu
 
-<img src="ReadMeAssets/img3.png" alt="Account Menu" width="300"/>
+<img src="ReadMeAssets/img3.PNG" alt="Account Menu" width="300"/>
 
-Open ``Transaction history`` and click on <img src="ReadMeAssets/img4.png" alt="Account Menu" width="30"/>
+Open ``Transaction history`` and click on <img src="ReadMeAssets/img4.PNG" alt="Export icon" width="30"/>
 
-<img src="ReadMeAssets/img5.png" alt="Account Menu" width="300"/>
+<img src="ReadMeAssets/img5.PNG" alt="Export screen" width="300"/>
 
 Select an export between two dates after that click on `Export to CSV` and download it on `Export History` section and to finish transfer your file to your computer.
