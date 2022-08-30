@@ -68,7 +68,7 @@ def open_file():
                     fiat = row['Native Amount']
                 else:
                     fiat = round(row['Native Amount (in USD)'], 2)
-                if kind == "referral_card_cashback" or kind == "reimbursement":
+                if kind == "referral_card_cashback" or kind == "reimbursement" or kind == "crypto_earn_interest_paid":
                     cro_amount = cro_amount + row.Amount
                     fiat_amount = fiat_amount + fiat
             lbl.config(text="Total of CRO earned : " + str(cro_amount))
